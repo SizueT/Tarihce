@@ -11,14 +11,14 @@
 #header {
 	background-color: #CF3;
 	height: 10%;
-	width: 1300px;
+	width: 90%;
 	margin-right: auto;
 	margin-left: auto;
 }
 
 #menu {
 	height: 5%;
-	width: 1300px;
+	width: 90%;
 	background-color: #FF9;
 	margin-right: auto;
 	margin-left: auto;
@@ -26,13 +26,13 @@
 #content {
 	background-color: #F63;
 	height: 70%;
-	width: 1300px;
+	width: 90%;
 	margin-right: auto;
 	margin-left: auto;
 }
 #fooder {
 	height: 50px;
-	width: 1300px;
+	width: 90%;
 	background-color: #9F0;
 	margin-right: auto;
 	margin-left: auto;
