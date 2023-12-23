@@ -8,7 +8,7 @@
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 
-<link href="file:///C|/Users/Ömer/Desktop/final/Tarihce/style.css" rel="stylesheet" type="text/css" /></head>
+<link href="../../style.css" rel="stylesheet" type="text/css" /></head>
 
 <body>
 <div id="conteiner">
